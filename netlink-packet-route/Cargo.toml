@@ -19,9 +19,6 @@ netlink-packet-core = { path = "../netlink-packet-core", version = "0.2" }
 netlink-packet-utils = { path = "../netlink-packet-utils", version = "0.3" }
 bitflags = "1.2.1"
 
-[[example]]
-name = "dump_links"
-
 [dev-dependencies]
 criterion = "0.3.0"
 pcap-file = "1.1.1"

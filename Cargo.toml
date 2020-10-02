@@ -5,6 +5,7 @@ members = [
     "netlink-packet-core",
     "netlink-packet-utils",
     "netlink-packet-route",
+    "netlink-packet-route/examples/dump_links",
     "netlink-packet-audit",
     "netlink-packet-sock-diag",
     "netlink-proto",
